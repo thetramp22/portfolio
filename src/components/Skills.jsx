@@ -25,7 +25,7 @@ const Skills = () => {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={CSS} alt="CSS icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">CSS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
@@ -33,15 +33,15 @@ const Skills = () => {
               src={JavaScript}
               alt="JavaScript icon"
             />
-            <p className="my-4">HTML</p>
+            <p className="my-4">JavaScript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Github} alt="Github icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Github</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={ReactImg} alt="React icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">React</p>
           </div>
         </div>
       </div>
