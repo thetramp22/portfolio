@@ -1,4 +1,3 @@
-import React from "react";
 import Calculator from "../assets/calculator.png";
 import RestaurantPage from "../assets/restaurant-page.png";
 
