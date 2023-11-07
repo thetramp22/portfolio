@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
